@@ -251,7 +251,7 @@ img {
   margin-bottom: var(--mb-2);
 }
 .about__img {
-  justify-self: right;
+  justify-self: center;
 }
 .about__img img {
   width: 200px;
